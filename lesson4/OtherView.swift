@@ -141,7 +141,7 @@ private extension OtherView {
     var accountInfoSection: some View {
         HStack {
             HStack(spacing: 8) {
-                Text("登入號碼：0932886439")
+                Text("登入號碼：0932XXXXXX")
                     .font(.system(size: 16, weight: .medium))
                     .foregroundColor(Color.gray.opacity(0.85))
                 
