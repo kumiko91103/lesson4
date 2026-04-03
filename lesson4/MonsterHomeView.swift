@@ -11,7 +11,6 @@ import SwiftUI
 struct MonsterHomeView: View {
     let InvoiceCarrierCode = "/8C2982A"
     
-    // 你可以直接改這些圖片名稱
     let centerMonsterImage = "Seal_Ball.gif"      // 中間主圖（建議放 Assets）
     let leftGiftImage = "giftIcon"              // 左下圓形圖
     let rightStatusImage = "statusIcon"         // 右下圓形圖
